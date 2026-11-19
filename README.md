@@ -1,6 +1,6 @@
 # La pecera de DAW
 
-## Bienvenida
+## Bienvenida/o
 
 Durante este semestre crearemos una pecera para practicar lenguajes de script y animaciones en una página web con HTML y JavaScript.
 
